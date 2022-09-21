@@ -1,0 +1,19 @@
+#contactpage{
+    border-radius: 8px;
+    box-shadow: 0px 2px 11px 4px rgb(15 15 16 / 29%);
+   }
+   #donate_img{
+    height: 30vh;
+    width: 25vw;
+    border-radius: 10px;
+   }
+#contactpage button{
+    background-color:rgb(72, 72, 239) ;
+   
+    color: white;
+    padding: 6px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border: none;
+    border-radius: 10px;
+}
